@@ -1,0 +1,37 @@
+body {
+	font-family: arial;
+	background-image: url("images/back.png");
+	background-color: #94aacc;
+
+	padding: 0 10% 10% 10%;
+
+}
+.mydiv {
+	background-image: url("images/back.png");
+}
+.navbar {
+	border-radius: 12px;
+}
+
+.card {
+	float:left;
+
+	border-color: #4569a0;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 2px 2px 12px 12px;
+	margin: 5px;
+
+}
+.about-me {
+	padding: 3%;
+	margin-top:3%;
+	border-color: #4569a0;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 12px;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
